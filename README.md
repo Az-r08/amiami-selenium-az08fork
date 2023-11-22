@@ -1,3 +1,6 @@
+## THIS PROJECT IS PAUSED INDEFINITELY
+Due to Gift no longer sells their plushies in limited quantities, i no longer see the need for this project to exists, the codes in this repo is deprecated and no longer work. I might continue to develop when i have time in the future.
+
 # amiami-selenium
 
 This selenium-based Python script automates the UI-interaction procedure to expedite the buying process for items on the Japanese website [Amiami](https://www.amiami.com).
@@ -92,3 +95,5 @@ It is to be made clear that we do not condone the usage of our code in the busin
 
 By cloning, forking, contributing to, or running code in this repository, you are to assume all responsibilities for your actions.
 The authors of this repository are to claim no liability for any damage caused by malicious or inappropriate usage, in full or in part, of code in this repository.
+
+
