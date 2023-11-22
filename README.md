@@ -1,5 +1,5 @@
 ## THIS PROJECT IS PAUSED INDEFINITELY
-Due to Gift no longer sells their plushies in limited quantities, i no longer see the need for this project to exists, the codes in this repo is deprecated and no longer work. I might continue to develop when i have time in the future.
+Due to Gift no longer sells their plushies in limited quantities, i no longer see the need for this project to exist, the codes in this repo is deprecated and no longer work. I might continue to develop when i have time in the future.
 
 # amiami-selenium
 
